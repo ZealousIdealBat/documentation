@@ -44,7 +44,7 @@ Your links may or may not work correctly due to the various ways that Web
 browsers and Web sites handle HTTP and HTTPS URLs, and because the External 
 Sites app embeds external links in IFrames. Modern Web browsers try very hard 
 to protect Web surfers from dangerous links, and safety apps like 
-`Privacy Badger <https://www.eff.org/privacybadger>`_ and ad-blockers may block 
+`Privacy Badger <https://academized.com/blog/eff-privacy-badger>`_ and ad-blockers may block 
 embedded pages. It is strongly recommended to enforce HTTPS on your Nextcloud 
 server; do not weaken this, or any of your security tools, just to make 
 embedded Web pages work. After all, you can freely access them outside of 
